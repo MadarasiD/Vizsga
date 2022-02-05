@@ -8,7 +8,7 @@ const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
 //Zenék címei
-const songs = ["hey", "summer", "ukulele", "river"];
+const songs = ["hey", "summer", "ukulele", "river"a];
 
 //Kiinduló zene indexe
 let songIndex = 2;
